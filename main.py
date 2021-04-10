@@ -7,17 +7,6 @@ import matplotlib.axes as axes
 
 import math
 
-import numpy as np
-
-np.warnings.filterwarnings('ignore', category=np.VisibleDeprecationWarning)
-import matplotlib.pyplot as pyplot
-import matplotlib.patches as patches
-import matplotlib.path as path
-import matplotlib.axes as axes
-
-import math
-
-
 class route:
     def __init__(self, AdjTable, start, stop, plot=False, node_locations=[]):
         self.start = self.sanitize_node(start)
