@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+RPY.egg-info/PKG-INFO
+RPY.egg-info/SOURCES.txt
+RPY.egg-info/dependency_links.txt
+RPY.egg-info/requires.txt
+RPY.egg-info/top_level.txt

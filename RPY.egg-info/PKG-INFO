@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: RPY
+Version: 0.1
+Summary: Tools for managing robot paths
+Home-page: UNKNOWN
+Author: Alexander Benson
+Author-email: alexander.benson@stmartin.edu
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Other Audience
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Software Development
+Classifier: Topic :: Artistic Software
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS

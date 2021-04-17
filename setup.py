@@ -16,7 +16,7 @@ Operating System :: MacOS
 """
 
 setup(
-    name='artpy',
+    name='RPY',
     version=' 0.1',
     author='Alexander Benson',
     author_email='alexander.benson@stmartin.edu',
@@ -28,4 +28,3 @@ setup(
     install_requires=['numpy',
                       'matplotlib'],
 )
-
